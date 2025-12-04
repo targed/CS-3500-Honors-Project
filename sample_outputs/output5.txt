@@ -1,0 +1,4 @@
+A → Br
+B → Cd
+C → C'
+C' → drtC' | empty

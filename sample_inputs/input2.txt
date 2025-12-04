@@ -1,0 +1,3 @@
+S → Sx | Ay | empty
+A → Sa | Bb | Az
+B → Bp | Sq | r

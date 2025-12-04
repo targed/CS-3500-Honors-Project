@@ -1,0 +1,6 @@
+Q → QED | q 
+E → e | empty
+D → NFA | d
+N → DFA | n
+F → f
+A → a

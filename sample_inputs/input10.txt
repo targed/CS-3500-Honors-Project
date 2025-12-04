@@ -1,0 +1,3 @@
+S → Ac | Sx
+A → AS | By
+B → Sb | BBc | empty

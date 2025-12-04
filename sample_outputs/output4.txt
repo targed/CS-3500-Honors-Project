@@ -1,0 +1,6 @@
+S → aAS'
+S' → cS' | empty
+A → A'
+A' → BbA' | dA' | empty
+B → dA'dB' | dB' | aAS'cB'
+B' → bA'dB' | empty

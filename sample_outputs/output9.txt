@@ -1,0 +1,4 @@
+A → BaA' | cA'
+A' → aA' | empty
+B → cA'bB' | dB'
+B' → bB' | aA'bB' | empty

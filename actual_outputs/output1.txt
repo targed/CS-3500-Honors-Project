@@ -1,0 +1,4 @@
+A → Ba | d
+B → Cb
+C → dcC'
+C' → bacC' | empty

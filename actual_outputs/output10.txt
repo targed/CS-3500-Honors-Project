@@ -1,0 +1,7 @@
+S → AcS'
+S' → xS' | empty
+A → ByA'
+A' → ByA'cS'A' | empty
+B → B'
+B' → yA'cS'bB'B'' | B''
+B'' → cB'B'' | empty

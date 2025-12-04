@@ -1,0 +1,8 @@
+Q → qQ'
+Q' → EDQ' | empty
+E → e | empty
+D → NFA | d
+N → dFAN' | nN'
+N' → FAFAN' | empty
+F → f
+A → a

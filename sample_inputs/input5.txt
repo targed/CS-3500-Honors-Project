@@ -1,0 +1,3 @@
+A → Br
+B → Cd
+C → At

@@ -1,0 +1,5 @@
+A → Bxy | x
+B → CD
+C → xC' | cC'
+C' → DxyC' | empty
+D → d

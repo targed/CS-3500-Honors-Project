@@ -1,0 +1,3 @@
+S → SAa | Aa | z
+A → Bq | empty
+B → BAa | Sy | b

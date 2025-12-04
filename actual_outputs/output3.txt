@@ -1,0 +1,3 @@
+S → Aa | b
+A → bdA' | A'
+A' → cA' | adA' | empty
