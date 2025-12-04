@@ -40,15 +40,15 @@ you specify the input grammar you want in `/sample_inputs/input*.txt. It can be 
 for example:
 
 this works:
-`
+```
 S -> a A | S c
 A -> A B b | A d | empty
 B -> A d | S c
-`
+```
 
 but so does this:
-`
+```
 S → aA | Sc
 A → ABb | Ad | empty
 B → Ad | Sc
-`
+```
