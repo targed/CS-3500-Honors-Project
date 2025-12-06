@@ -24,9 +24,11 @@ Into:
 
 ## Test/run the program
 
+You may need to make the bash scripts executable first using `chmod +x ./run.sh` and `chmod +x ./test.sh`
+
 To test or run the program, you can either use 
 
-the `./run.sh` script which just runs the python scrip and can be used like this `./run.sh < sample_inputs/input$i.txt > actual_outputs/output$i.txt` 
+the `./run.sh` script which just runs the python scrip and can be used like this `./run.sh < sample_inputs/input$i.txt > actual_outputs/output$i.txt` where you replace $i with the number of the input/output file
 you can then compare the output with the expected output using `diff -w actual_outputs/output$i.txt sample_outputs/output$i.txt`
 
 or `./test.sh` automatically does that for you
