@@ -1,3 +1,6 @@
+# Name: Luke Kaiser
+# CS 3500 Honors Project
+
 import sys
 
 class Grammar:
